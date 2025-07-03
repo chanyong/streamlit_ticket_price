@@ -1,1 +1,5 @@
-# streamlit_ticket_price
+mysql.connector
+numpy
+pandas
+pymysql
+altair
